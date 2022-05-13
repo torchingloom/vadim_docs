@@ -1,3 +1,13 @@
+*.py[cod]
+*.pyco
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+__pycache__
+
 .idea
 _credentials.json
 _token.json
